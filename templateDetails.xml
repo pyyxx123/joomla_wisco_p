@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>wisco</name>
+	<version>1.0</version>
+	<creationDate>03/11/2014</creationDate>
+	<author>Steven Yaoo</author>
+	<authorEmail>pyyxx1234@qq.com</authorEmail>
+	<copyright>Copyright (C) 2014-2016 Wisco.com.cn All right reserved.</copyright>
+	<description>TPL_PROTOSTAR_XML_DESCRIPTION</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>js</folder>
+		<folder>language</folder>
+	</files>
+	<positions>
+		<position>header</position>
+		<position>nav</position>
+		<position>lside</position>
+		<position>rside</position>
+		<position>main</position>
+		<position>mid</position>
+		<position>footer</position>
+	</positions>
+	<language folder="language">
+		<language tag="zh-CN">zh-CN/zh-CH.tpl_wisco.ini</language>
+		<language tag="zh-CN">zh-CN/zh-CH.tpl_wisco.sys.ini</language>
+	</language>
+	
+</extension>
