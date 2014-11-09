@@ -16,7 +16,7 @@ $this->language  = $doc->language;
 $this->direction = $doc->direction;
 
 // Add Stylesheets
-$doc->addStyleSheet('templates/' . $this->template . '/css/templates.css');
+$doc->addStyleSheet('templates/' . $this->template . '/css/template.css');
 
 ?>
 <!DOCTYPE html>

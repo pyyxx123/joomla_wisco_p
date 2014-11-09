@@ -11,6 +11,7 @@
 	<files>
 		<filename>index.php</filename>
 		<filename>templateDetails.xml</filename>
+		<filename>favicon.ico</filename>
 		<folder>css</folder>
 		<folder>html</folder>
 		<folder>js</folder>

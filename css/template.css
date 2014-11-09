@@ -1,0 +1,97 @@
+#container{
+	width: 1002px;
+	margin: 0 auto;
+}
+#header{
+	height: 120px;
+	background:blue;
+}
+#nav li{
+	width: 90px;
+	margin-right: 2px;
+	float: left;
+	list-style: none;
+	}
+#nav a{
+	line-height: 16px;
+	font-size: 16px;
+	font-family: '微软雅黑';
+	color: #363636;
+	display: block;
+	width: 90px;
+	height: 16px;
+	text-align: center;
+}
+#nav a:hover{
+	color: white;
+	background: url();
+}
+#main{
+
+}
+#lside{
+	height: 480px;
+	width: 694px;
+	border: 1px solid gray;
+	background: blue;
+	float: left;
+}
+.subtitle{
+	height: 37px;
+	background: gray;
+}
+.subtitle h1{
+	margin: 0px;
+	float: left;
+	font-size: 16px;
+	font-family: 'SimHei';
+	margin-left: 10px;
+
+}
+.subtitle a{
+	font-size: 12px;
+	font-family: 'SimHei';
+	color: black;
+	float: right;
+}
+
+.four{
+	width: 326px;
+	height: 200px;
+	margin: 10px;
+	float: left;
+	background: gray;
+}
+.four img{
+	margin-left: 5px;
+	margin-right: 6px;
+	background: white;
+	float: left;
+}
+.four ul{
+	float: left;
+	margin-left: 10px;
+}
+
+.four li{
+background: url() no-repeat;
+padding-left: 10px;
+
+}
+.four h2{
+	margin:5px 0 0 10px;
+	font-size: 16px;
+	font-family: 'SimHei';
+}
+
+#rside{
+	height: 600px;
+	width: 294px;
+	background: green;
+	float: right;
+}
+#footer{
+	height: 120px;
+	background:pink;
+	clear: both;
+}
